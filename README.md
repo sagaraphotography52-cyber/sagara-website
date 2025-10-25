@@ -1,2 +1,1 @@
-# sagara-website
-Hy
+# sagara-photography
